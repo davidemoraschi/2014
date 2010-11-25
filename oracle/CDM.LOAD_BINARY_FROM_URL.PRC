@@ -1,0 +1,31 @@
+CREATE OR REPLACE PROCEDURE CDM.load_binary_from_url wrapped
+a000000
+b2
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+7
+491 295
+eFoyFzhaFZTiL+cZvD9RUMzJwwwwg423TPYFfI5Av80PUrkn1n+hRWJj6EQxIqF0YWPySS7A
+bKPUcFA7L7SV+XNK5GtXJh0TrwQeACy7QhQ+YsdWYavuzXNDExBzCB5DzsY/JLy1oJ3QIC/F
+mD2UibJ6mZAgRoeiN3z7pl3CLUCgVS8+CqBoLEXphFGoLLLunJM2/ii4gk9sbQVy5BtOOpv5
+SJ94mKFMkOUKDgjebUCPBjEJsEnYTwf9le2lI1PMEM8r+nTietweaqC0TG3hsALEbUOxAYk5
+iOLZ1ENTxIUnC75a8faORkYN8aN9HUZMhgQrUWUEY4SsvxHII344/kIwbnCrLn/gbrxZHtTV
+VZ/ptxrUk/ZIuQKlNHoXKMlzTeJuicV14WIYp0wws5a5ddR8uE6+QTHcnEbmPn4YtpbqWE7x
+nhMqeWh7tekQKg/UY1eAzSS5x8PDl6/8SNbX+qgHo77CWFbL7dzYrl8G4UkO9ZlMF8utsz5C
+k7aqWub9HjlLuec2H8FJVpkcWep/jqyiXUMXzH9S58YxQNivsBqvAC12hJiMUqpKgBKGPuIh
+P3q/kFVxPDKh3rg5TWPvWDdIuwjn1LXIzoBb77ZqXMWywoyftc59kQFqoZ9jAc05LiRzRGEb
+/RI=
+/
