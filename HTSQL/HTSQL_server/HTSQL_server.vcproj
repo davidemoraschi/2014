@@ -3,7 +3,7 @@
 	ProjectType="Visual C++"
 	Version="9,00"
 	Name="HTSQL_server"
-	ProjectGUID="{D5C68852-4F97-4ABB-B1EB-E4A4D60361BC}"
+	ProjectGUID="{AE29FEAE-F84D-4591-9A41-27F1DC6D9EEB}"
 	RootNamespace="HTSQL_server"
 	Keyword="Win32Proj"
 	TargetFrameworkVersion="196613"

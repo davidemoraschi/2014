@@ -1,22 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HTSQL_server", "HTSQL_server\HTSQL_server.vcproj", "{D5C68852-4F97-4ABB-B1EB-E4A4D60361BC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HTSQL_server", "HTSQL_server\HTSQL_server.vcproj", "{AE29FEAE-F84D-4591-9A41-27F1DC6D9EEB}"
 EndProject
 Global
-	GlobalSection(SubversionScc) = preSolution
-		Svn-Managed = True
-		Manager = AnkhSVN - Subversion Support for Visual Studio
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D5C68852-4F97-4ABB-B1EB-E4A4D60361BC}.Debug|Win32.ActiveCfg = Debug|Win32
-		{D5C68852-4F97-4ABB-B1EB-E4A4D60361BC}.Debug|Win32.Build.0 = Debug|Win32
-		{D5C68852-4F97-4ABB-B1EB-E4A4D60361BC}.Release|Win32.ActiveCfg = Release|Win32
-		{D5C68852-4F97-4ABB-B1EB-E4A4D60361BC}.Release|Win32.Build.0 = Release|Win32
+		{AE29FEAE-F84D-4591-9A41-27F1DC6D9EEB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AE29FEAE-F84D-4591-9A41-27F1DC6D9EEB}.Debug|Win32.Build.0 = Debug|Win32
+		{AE29FEAE-F84D-4591-9A41-27F1DC6D9EEB}.Release|Win32.ActiveCfg = Release|Win32
+		{AE29FEAE-F84D-4591-9A41-27F1DC6D9EEB}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
