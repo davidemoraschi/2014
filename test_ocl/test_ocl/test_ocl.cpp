@@ -16,8 +16,15 @@ int _tmain(int argc, _TCHAR* argv[])
 
 	OraQuery query;
 	query.setConnection(connection);
-	query.setCommandText("SELECT * FROM HTML_RSS_NEWS");
-	query.open();
+	query.setCommandText("SELECT * FROM HTML_RSS_NEW");
+	try 
+	{
+		query.open();
+	}
+	catch (OraException& e) 
+	{
+		cout << e.message();
+	}
 	while (!query.isEOF()) {
 		cout << "TITLE: " << query.field("TITLE").getString() << endl;
 		query.next();
