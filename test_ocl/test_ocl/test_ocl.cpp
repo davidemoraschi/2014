@@ -1,5 +1,3 @@
-// test_ocl.cpp : Defines the entry point for the console application.
-//
 
 #include "stdafx.h"
 #include "ocl.h"
@@ -24,6 +22,8 @@ int _tmain(int argc, _TCHAR* argv[])
 		cout << "TITLE: " << query.field("TITLE").getString() << endl;
 		query.next();
 	}
+	query.close();
+	connection.close();
 	system("PAUSE");
 	return 0;
 }
