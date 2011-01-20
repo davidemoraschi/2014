@@ -1,0 +1,30 @@
+// test_ocl.cpp : Defines the entry point for the console application.
+//
+
+#include "stdafx.h"
+#include "ocl.h"
+#include <iostream>
+
+using namespace ocl;
+using namespace std;
+
+int _tmain(int argc, _TCHAR* argv[])
+{
+	OraConnection connection;
+	connection.setUsername("cdm");
+	connection.setPassword("iPaddellaSamsung");
+	connection.setServer("mti");
+	connection.open();
+
+	OraQuery query;
+	query.setConnection(connection);
+	query.setCommandText("SELECT * FROM HTML_RSS_NEWS");
+	query.open();
+	while (!query.isEOF()) {
+		cout << "TITLE: " << query.field("TITLE").getString() << endl;
+		query.next();
+	}
+	system("PAUSE");
+	return 0;
+}
+
