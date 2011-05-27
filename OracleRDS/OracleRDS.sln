@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OracleRDS", "OracleRDS\OracleRDS.csproj", "{8049DA6C-0697-44D2-8D4F-285260D56628}"
+EndProject
+Project("{00000000-0000-0000-0000-000000000000}") = "AWS_Web_Interface", "AWS_Web_Interface\AWS_Web_Interface.csproj", "{0804F6EF-8249-4516-9223-42815BDADC0C}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8049DA6C-0697-44D2-8D4F-285260D56628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8049DA6C-0697-44D2-8D4F-285260D56628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8049DA6C-0697-44D2-8D4F-285260D56628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8049DA6C-0697-44D2-8D4F-285260D56628}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0804F6EF-8249-4516-9223-42815BDADC0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0804F6EF-8249-4516-9223-42815BDADC0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0804F6EF-8249-4516-9223-42815BDADC0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0804F6EF-8249-4516-9223-42815BDADC0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
