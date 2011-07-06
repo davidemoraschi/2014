@@ -15,7 +15,10 @@
     <Folder Name="Functions"/>
     <Folder Name="Packages"/>
     <Folder Name="Procedures"/>
-    <Folder Name="Scripts"/>
+    <Folder Name="Scripts">
+      <File Name="MSTR_MAE_PRESU_04_EPIGRAFES.sql"/>
+      <File Name="MSTR_MAE_PRESU_05_PRODUCTOS.sql"/>
+    </Folder>
     <Folder Name="Security">
       <Folder Name="Permissions"/>
       <Folder Name="Roles"/>
