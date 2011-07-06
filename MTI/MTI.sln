@@ -1,0 +1,14 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{218574D1-FF94-4B95-8577-A6D58C11C315}") = "MTI", "MTI.oradbproj", "{0DF05D26-5A81-43C4-ACBC-08F4399E9829}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
