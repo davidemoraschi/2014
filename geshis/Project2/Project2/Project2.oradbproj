@@ -1,0 +1,50 @@
+<Project>
+  <General>
+    <ProductVersion>4.112.2.0</ProductVersion>
+    <ProjectGuid>{07807D4D-F064-4524-B76A-E2D6712CA98E}</ProjectGuid>
+    <SccProjectName>Svn</SccProjectName>
+    <SccLocalPath>Svn</SccLocalPath>
+    <SccAuxPath>Svn</SccAuxPath>
+    <SccProvider>SubversionScc</SccProvider>
+  </General>
+  <Items>
+    <Folder Name="AQ">
+      <Folder Name="Queue Tables"/>
+      <Folder Name="Queues"/>
+    </Folder>
+    <Folder Name="Functions"/>
+    <Folder Name="Packages"/>
+    <Folder Name="Procedures"/>
+    <Folder Name="Scripts">
+      <File Name="MSTR_MAE_PRESU_05_PRODUCTOS.sql"/>
+    </Folder>
+    <Folder Name="Security">
+      <Folder Name="Permissions"/>
+      <Folder Name="Roles"/>
+      <Folder Name="Users"/>
+    </Folder>
+    <Folder Name="Sequences"/>
+    <Folder Name="Synonyms"/>
+    <Folder Name="Tables">
+      <Folder Name="Triggers"/>
+      <File Name="Script1.sql"/>
+    </Folder>
+    <Folder Name="User Defined Types">
+      <Folder Name="Nested Tables"/>
+      <Folder Name="Objects"/>
+      <Folder Name="VARRAYs"/>
+    </Folder>
+    <Folder Name="Views">
+      <Folder Name="Triggers"/>
+    </Folder>
+    <Folder Name="XML Schemas"/>
+    <DBRefs Name="Database References">
+      <DBRef Name="GESHIS.MTI" IsDefault="true">
+        <ConnectionString>DATA SOURCE=MTI;PERSIST SECURITY INFO=True;USER ID=GESHIS</ConnectionString>
+      </DBRef>
+    </DBRefs>
+  </Items>
+  <Configurations>
+    <Configuration Name="Default"/>
+  </Configurations>
+</Project>
