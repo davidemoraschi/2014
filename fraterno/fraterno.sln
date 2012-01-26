@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "fraterno", "ftp://fraterno", "{EE0C8F80-922E-4647-A576-F75579AA0F37}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/fraterno"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Perfiles\Davide\AppData\Local\Temp\VWDWebCache\ftp_fraterno\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\fraterno\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/fraterno"
+		Release.AspNetCompiler.PhysicalPath = "D:\Perfiles\Davide\AppData\Local\Temp\VWDWebCache\ftp_fraterno\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\fraterno\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE0C8F80-922E-4647-A576-F75579AA0F37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE0C8F80-922E-4647-A576-F75579AA0F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
