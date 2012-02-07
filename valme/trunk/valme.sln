@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cdm", "cdm\cdm.csproj", "{422F1FEC-C7E8-41C0-B3DF-40FB9DBD4BE4}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "fraterno", "ftp://fraterno", "{19B2D340-BF6A-4B30-ABA5-C0AF7CAE9C9C}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/fraterno"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Perfiles\Davide\AppData\Local\Temp\VWDWebCache\ftp_fraterno\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\fraterno\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/fraterno"
+		Release.AspNetCompiler.PhysicalPath = "D:\Perfiles\Davide\AppData\Local\Temp\VWDWebCache\ftp_fraterno\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\fraterno\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{422F1FEC-C7E8-41C0-B3DF-40FB9DBD4BE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{422F1FEC-C7E8-41C0-B3DF-40FB9DBD4BE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{422F1FEC-C7E8-41C0-B3DF-40FB9DBD4BE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{422F1FEC-C7E8-41C0-B3DF-40FB9DBD4BE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
