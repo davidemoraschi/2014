@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>VALME talking clock</title>
+    <link rel="Stylesheet" href="/public/css/liquid.css" type="text/css" />
+    <style type="text/css" media="screen, print">
+        @font-face
+        {
+            font-family: "MyBlueRoom";
+            src: url("http://fraterno/public/ttf/MyBlueRoom.ttf");
+        }
+        
+        #clock
+        {
+            font-family: "MyBlueRoom" , sans-serif;
+            font-size: 1em;
+            color: rgba(200, 255, 0, 0.7);
+        }
+    </style>
+    <script type="text/javascript"> 
+        <!--
+
+        function init() {
+            timeDisplay = document.createTextNode("");
+            document.getElementById("clock").appendChild(timeDisplay);
+        }
+
+        function updateClock() {
+            var currentTime = new Date();
+
+            var currentHours = currentTime.getHours();
+            var currentMinutes = currentTime.getMinutes();
+            var currentSeconds = currentTime.getSeconds();
+
+            // Pad the minutes and seconds with leading zeros, if required
+            currentMinutes = (currentMinutes < 10 ? "0" : "") + currentMinutes;
+            currentSeconds = (currentSeconds < 10 ? "0" : "") + currentSeconds;
+
+            // Choose either "AM" or "PM" as appropriate
+            var timeOfDay = (currentHours < 12) ? "AM" : "PM";
+
+            // Convert the hours component to 12-hour format if needed
+            //currentHours = ( currentHours > 12 ) ? currentHours - 12 : currentHours;
+
+            // Convert an hours component of "0" to "12"
+            //currentHours = ( currentHours == 0 ) ? 12 : currentHours;
+
+            // Compose the string for display
+            //var currentTimeString = currentHours + ":" + currentMinutes + ":" + currentSeconds + " " + timeOfDay;
+            var currentTimeString = currentHours + "." + currentMinutes + "." + currentSeconds;
+
+            // Update the time display
+            document.getElementById("clock").firstChild.nodeValue = currentTimeString; //12.3:4
+            //          document.getElementById("clock").firstChild.nodeValue = "12.3:4";
+        }
+
+        // -->
+        function switchClock() {
+            if (document.getElementById("clock").style.color == 'red') {
+                document.getElementById("clock").style.color = "rgba(200, 255, 0, 0.7)";
+                clearInterval(wooYayIntervalId);
+            }
+            else {
+                document.getElementById("clock").style.color = "red";
+                alert('./cdm_dad/fn_informe_hablado');
+                wooYayIntervalId = setInterval("DHTMLSound('./cdm_dad/fn_informe_hablado')", 3000);
+            }
+        }
+        function DHTMLSound(surl) {
+             document.getElementById("span_voice_comment").innerHTML =
+            "<embed src='" + surl + "' hidden=true autostart=true loop=false>";
+        }
+    </script>
+</head>
+<body onload="updateClock(); setInterval('updateClock()', 1000 )">
+    <div onclick="switchClock()" 
+        style="border-width: 0px; width: 9em; margin: 0px; background-image: url('public/img/mxw_400_mxh_400_20091117110443-chronoplus2.jpg');
+        background-repeat: no-repeat; height: 37px; padding-top: 17px; float: right; padding-left: 17px;">
+        <span id="clock">10.36.05</span> <span id="span_voice_comment">&nbsp;</span>
+    </div>
+    <div style="position:absolute;bottom:0;float:right;">
+        <a href="http://es.linkedin.com/in/davidemoraschi" target="_parent">
+            <img src="http://www.linkedin.com/img/webpromo/btn_liprofile_blue_80x15.png" width="80"
+                height="15" border="0" alt="View Davide Moraschi&apos;s profile on LinkedIn"
+                align="right" /></a>
+    </div>
+</body>
+</html>
