@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package xmlns="http://schemas.microsoft.com/WindowsScriptHost">
+    <job id="Main_Job">
+        <script language="VBScript" src="adovbs.inc" />
+        <script language="VBScript" src="FSO.vbs" />
+        <script language="VBScript" src="DAO.vbs" />
+        <script language="VBScript" src="DSO.vbs" />
+        <script language="VBScript">
+            'Variables para personalizar
+            strFilePath = "D:\My Dropbox\SOURCES\inydia\test\DSOControl\A1.mdb"
+            xmlFilePath = "file://D:\My Dropbox\SOURCES\inydia\test\DSOControl\A1.xml"
+            xmlRoot = "AssayResult"
+            'Variables para personalizar
+
+            'Parámetros de script
+            Set oArgs = WScript.Arguments
+            If oArgs.Count > 0 Then                
+                WScript.Echo oArgs(0)' Nombre del fichero XML
+                xmlFilePath = oArgs(0)                
+                WScript.Echo oArgs(1)' Nombre del elemento raíz
+                xmlRoot = oArgs(1)
+            End If
+            Set oArgs = Nothing
+
+            Delete_File(strFilePath)            
+            Check_File(strFilePath)
+
+            Set adoRS = CreateObject("ADODB.Recordset")
+            Set DAODbs = CreateObject("DAO.DBEngine.36")
+
+            Call adoRS.Open(xmlFilePath, "Provider=MSDAOSP; Data Source=MSXML2.DSOControl;")
+            Set DAOdb = DAODbs.OpenDatabase(strFilePath, False, False)
+
+            iLevel = 0
+            Call adoRS.MoveFirst
+            Call LoopThruFields (xmlRoot, iLevel, adoRS, DAOdb, Null)
+            Call adoRS.MoveFirst
+            Call LoopThruData (xmlRoot, iLevel, adoRS, DAOdb, Null, Null)
+            Call adoRS.MoveFirst
+            Call LoopThruRela (xmlRoot, iLevel, adoRS, DAOdb, Null)
+            Set DAOdb = Nothing
+            Set DAODbs = Nothing
+            Set adoRS = Nothing
+
+        </script>
+    </job>
+</package>
