@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{422F1FEC-C7E8-41C0-B3DF-40FB9DBD4BE4}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>cdm</RootNamespace>
+    <AssemblyName>cdm</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="fontface.htm" />
+    <Content Include="frameset_main.htm" />
+    <Content Include="frame_main.htm" />
+    <Content Include="frame_status.htm" />
+    <Content Include="index.htm" />
+    <Content Include="progressbar.htm" />
+    <Content Include="public\css\liquid.css" />
+    <Content Include="public\css\testnl.css" />
+    <Content Include="public\img\mxw_400_mxh_400_20091117110443-chronoplus2.jpg" />
+    <Content Include="public\js\ProgressBar.js" />
+    <Content Include="public\js\Rectangle.js" />
+    <Content Include="public\js\testlq.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="oracle\ANDA_CUENTANOS_ALGO.prc" />
+    <None Include="oracle\BANNER.prc" />
+    <None Include="oracle\CONTENT.prc" />
+    <None Include="oracle\DATA.prc" />
+    <None Include="oracle\FN_BULK_GOOGLE_GOECODE.prc" />
+    <None Include="oracle\FN_GOOGLE_CLOCK.prc" />
+    <None Include="oracle\FN_GOOGLE_GEOCODE.fnc" />
+    <None Include="oracle\FN_HTML_CONSTANT.fnc" />
+    <None Include="oracle\FN_HTML_ISO8859_1CHARS.fnc" />
+    <None Include="oracle\FN_HTML_PAGE.fnc" />
+    <None Include="oracle\FN_HTML_QUOTE.fnc" />
+    <None Include="oracle\FN_HTML_URLENCODE.fnc" />
+    <None Include="oracle\FN_IMG_DISPLAY.prc" />
+    <None Include="oracle\FN_IMG_GET.prc" />
+    <None Include="oracle\FN_INFORME_HABLADO.prc" />
+    <None Include="oracle\FN_WAV_DOWNLOAD.prc" />
+    <None Include="oracle\GDATASOURCE.pkb" />
+    <None Include="oracle\GDATASOURCE.pks" />
+    <None Include="oracle\GDATASOURCE2.pkb" />
+    <None Include="oracle\GDATASOURCE2.pks" />
+    <None Include="oracle\HOME.prc" />
+    <None Include="oracle\HOME2.prc" />
+    <None Include="oracle\LOAD_BINARY_FROM_URL.prc" />
+    <None Include="oracle\LOAD_GOOGLE_CHART_FROM_URL.prc" />
+    <None Include="oracle\LOGO.prc" />
+    <None Include="oracle\MAIN.prc" />
+    <None Include="oracle\TEST.prc" />
+    <None Include="oracle\TEST1.prc" />
+    <None Include="oracle\TEST2.prc" />
+    <None Include="oracle\TEST3.prc" />
+    <None Include="oracle\TEST4.prc" />
+    <None Include="oracle\TEST5.prc" />
+    <None Include="oracle\TEST6.prc" />
+    <None Include="oracle\TEST7.prc" />
+    <None Include="oracle\TEST_HEADER.prc" />
+    <None Include="oracle\TEST_MCML.prc" />
+    <None Include="oracle\TOOLBAR.prc" />
+    <None Include="oracle\wrapall.cmd" />
+    <None Include="public\ttf\MyBlueRoom.ttf" />
+    <None Include="upload.cmd" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>1617</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
