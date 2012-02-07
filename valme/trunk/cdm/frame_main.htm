@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+      <title>VALME en directo</title>
+      <link rel="Stylesheet" href="/public/css/liquid.css" type="text/css"/>
+      <script type="text/javascript" src="http://www.google.com/jsapi"></script>
+      <script type="text/javascript" src="/public/js/testlq.js"></script>
+      <script type="text/javascript">
+          google.load('visualization', '1', { packages: ['corechart', 'map', 'table'], language: 'es' });
+          google.setOnLoadCallback(initialize);
+      </script>
+   </head>
+   
+   <body>
+   <table border="0">
+   <tr><td>
+    <div id="liquid-round_top_left">
+        <div class="top">
+            <span></span>
+        </div>
+        <div>
+            <div id="visualization1" class="center-content"/>
+        </div>      
+        <div class="bottom">
+            <span></span>
+        </div>
+     </div>
+     </td><td>
+     <div id="liquid-round_top_left">
+        <div class="top">
+            <span></span>
+        </div>
+        <div>
+            <div id="visualization2" class="center-content"/>
+        </div>      
+        <div class="bottom">
+            <span></span>
+        </div>
+     </div>
+     </td>
+   </tr>
+   <tr><td>
+    <div id="liquid-round_top_left">
+        <div class="top">
+            <span></span>
+        </div>
+        <div>
+            <div id="visualization3" class="center-content"/>
+        </div>      
+        <div class="bottom">
+            <span></span>
+        </div>
+     </div>
+     </td><td>
+     <div id="liquid-round_top_left">
+        <div class="top">
+            <span></span>
+        </div>
+        <div>
+            <div class="center-content"/><div id="visualization4"></div>
+        </div>      
+        <div class="bottom">
+            <span></span>
+        </div>
+     </div>
+     </td>
+   </tr>
+   </table>
+   </body>
+</html>
