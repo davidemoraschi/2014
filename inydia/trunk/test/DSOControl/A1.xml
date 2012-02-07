@@ -1,0 +1,847 @@
+<?xml version="1.0" ?><AssayResult ID="A1" Type="CLART_HPV2_8sc.6">
+  <Status ErrorID="0" Message="no error"/>
+  <Timestamp>1/1/0001 12:00:00 AM</Timestamp>
+  <ImageFileName>C:\temp\Genomica\A1.bmp</ImageFileName>
+  <SpotResults>
+    <Spot ID="1">
+      <Result Label="Pos.X" Value="56"/>
+      <Result Label="Pos.Y" Value="71"/>
+      <Result Label="Bkg.Mean" Value="0.86591612721643674"/>
+      <Result Label="Spot.Mean" Value="0.30078125"/>
+      <Result Label="Spot.StdDev" Value="0.0287049579232"/>
+    </Spot>
+    <Spot ID="2">
+      <Result Label="Pos.X" Value="126"/>
+      <Result Label="Pos.Y" Value="56"/>
+      <Result Label="Bkg.Mean" Value="0.87733234296875529"/>
+      <Result Label="Spot.Mean" Value="0.87109375"/>
+      <Result Label="Spot.StdDev" Value="0.0264934764966"/>
+    </Spot>
+    <Spot ID="3">
+      <Result Label="Pos.X" Value="183"/>
+      <Result Label="Pos.Y" Value="68"/>
+      <Result Label="Bkg.Mean" Value="0.87601323237116668"/>
+      <Result Label="Spot.Mean" Value="0.87109375"/>
+      <Result Label="Spot.StdDev" Value="0.0206699321177"/>
+    </Spot>
+    <Spot ID="4">
+      <Result Label="Pos.X" Value="251"/>
+      <Result Label="Pos.Y" Value="56"/>
+      <Result Label="Bkg.Mean" Value="0.87271751913673223"/>
+      <Result Label="Spot.Mean" Value="0.8671875"/>
+      <Result Label="Spot.StdDev" Value="0.0174692810742"/>
+    </Spot>
+    <Spot ID="5">
+      <Result Label="Pos.X" Value="318"/>
+      <Result Label="Pos.Y" Value="65"/>
+      <Result Label="Bkg.Mean" Value="0.87042867655655742"/>
+      <Result Label="Spot.Mean" Value="0.86328125"/>
+      <Result Label="Spot.StdDev" Value="0.0256149942356"/>
+    </Spot>
+    <Spot ID="6">
+      <Result Label="Pos.X" Value="389"/>
+      <Result Label="Pos.Y" Value="57"/>
+      <Result Label="Bkg.Mean" Value="0.86825262549776139"/>
+      <Result Label="Spot.Mean" Value="0.85546875"/>
+      <Result Label="Spot.StdDev" Value="0.03125"/>
+    </Spot>
+    <Spot ID="7">
+      <Result Label="Pos.X" Value="438"/>
+      <Result Label="Pos.Y" Value="66"/>
+      <Result Label="Bkg.Mean" Value="0.86682897641694345"/>
+      <Result Label="Spot.Mean" Value="0.85546875"/>
+      <Result Label="Spot.StdDev" Value="0.0220970869121"/>
+    </Spot>
+    <Spot ID="8">
+      <Result Label="Pos.X" Value="526"/>
+      <Result Label="Pos.Y" Value="76"/>
+      <Result Label="Bkg.Mean" Value="0.863518132612568"/>
+      <Result Label="Spot.Mean" Value="0.7421875"/>
+      <Result Label="Spot.StdDev" Value="0.055792409598"/>
+    </Spot>
+    <Spot ID="9">
+      <Result Label="Pos.X" Value="578"/>
+      <Result Label="Pos.Y" Value="69"/>
+      <Result Label="Bkg.Mean" Value="0.86440258320094077"/>
+      <Result Label="Spot.Mean" Value="0.859375"/>
+      <Result Label="Spot.StdDev" Value="0.0170269489982"/>
+    </Spot>
+    <Spot ID="10">
+      <Result Label="Pos.X" Value="640"/>
+      <Result Label="Pos.Y" Value="70"/>
+      <Result Label="Bkg.Mean" Value="0.8638977723674528"/>
+      <Result Label="Spot.Mean" Value="0.859375"/>
+      <Result Label="Spot.StdDev" Value="0.0187337168879"/>
+    </Spot>
+    <Spot ID="11">
+      <Result Label="Pos.X" Value="698"/>
+      <Result Label="Pos.Y" Value="53"/>
+      <Result Label="Bkg.Mean" Value="0.86359516096863154"/>
+      <Result Label="Spot.Mean" Value="0.859375"/>
+      <Result Label="Spot.StdDev" Value="0.015625"/>
+    </Spot>
+    <Spot ID="12">
+      <Result Label="Pos.X" Value="772"/>
+      <Result Label="Pos.Y" Value="59"/>
+      <Result Label="Bkg.Mean" Value="0.86280149379990512"/>
+      <Result Label="Spot.Mean" Value="0.85546875"/>
+      <Result Label="Spot.StdDev" Value="0.022439697838"/>
+    </Spot>
+    <Spot ID="13">
+      <Result Label="Pos.X" Value="67"/>
+      <Result Label="Pos.Y" Value="133"/>
+      <Result Label="Bkg.Mean" Value="0.87430050671954174"/>
+      <Result Label="Spot.Mean" Value="0.8671875"/>
+      <Result Label="Spot.StdDev" Value="0.0243945234312"/>
+    </Spot>
+    <Spot ID="14">
+      <Result Label="Pos.X" Value="139"/>
+      <Result Label="Pos.Y" Value="128"/>
+      <Result Label="Bkg.Mean" Value="0.87448229379440312"/>
+      <Result Label="Spot.Mean" Value="0.8671875"/>
+      <Result Label="Spot.StdDev" Value="0.0231096866527"/>
+    </Spot>
+    <Spot ID="15">
+      <Result Label="Pos.X" Value="207"/>
+      <Result Label="Pos.Y" Value="139"/>
+      <Result Label="Bkg.Mean" Value="0.87211367184544808"/>
+      <Result Label="Spot.Mean" Value="0.86328125"/>
+      <Result Label="Spot.StdDev" Value="0.0206699321177"/>
+    </Spot>
+    <Spot ID="16">
+      <Result Label="Pos.X" Value="258"/>
+      <Result Label="Pos.Y" Value="119"/>
+      <Result Label="Bkg.Mean" Value="0.868863350320837"/>
+      <Result Label="Spot.Mean" Value="0.86328125"/>
+      <Result Label="Spot.StdDev" Value="0.0183219365618"/>
+    </Spot>
+    <Spot ID="17">
+      <Result Label="Pos.X" Value="327"/>
+      <Result Label="Pos.Y" Value="114"/>
+      <Result Label="Bkg.Mean" Value="0.86641494900310179"/>
+      <Result Label="Spot.Mean" Value="0.859375"/>
+      <Result Label="Spot.StdDev" Value="0.022439697838"/>
+    </Spot>
+    <Spot ID="18">
+      <Result Label="Pos.X" Value="392"/>
+      <Result Label="Pos.Y" Value="126"/>
+      <Result Label="Bkg.Mean" Value="0.86324853336634544"/>
+      <Result Label="Spot.Mean" Value="0.859375"/>
+      <Result Label="Spot.StdDev" Value="0.0135316469341"/>
+    </Spot>
+    <Spot ID="19">
+      <Result Label="Pos.X" Value="451"/>
+      <Result Label="Pos.Y" Value="116"/>
+      <Result Label="Bkg.Mean" Value="0.86068596502087336"/>
+      <Result Label="Spot.Mean" Value="0.85546875"/>
+      <Result Label="Spot.StdDev" Value="0.0174692810742"/>
+    </Spot>
+    <Spot ID="20">
+      <Result Label="Pos.X" Value="510"/>
+      <Result Label="Pos.Y" Value="115"/>
+      <Result Label="Bkg.Mean" Value="0.85975887373539384"/>
+      <Result Label="Spot.Mean" Value="0.85546875"/>
+      <Result Label="Spot.StdDev" Value="0.0191366386155"/>
+    </Spot>
+    <Spot ID="21">
+      <Result Label="Pos.X" Value="582"/>
+      <Result Label="Pos.Y" Value="122"/>
+      <Result Label="Bkg.Mean" Value="0.85952091113541174"/>
+      <Result Label="Spot.Mean" Value="0.8515625"/>
+      <Result Label="Spot.StdDev" Value="0.0234375"/>
+    </Spot>
+    <Spot ID="22">
+      <Result Label="Pos.X" Value="629"/>
+      <Result Label="Pos.Y" Value="123"/>
+      <Result Label="Bkg.Mean" Value="0.85963920468222366"/>
+      <Result Label="Spot.Mean" Value="0.8515625"/>
+      <Result Label="Spot.StdDev" Value="0.0253153933532"/>
+    </Spot>
+    <Spot ID="23">
+      <Result Label="Pos.X" Value="706"/>
+      <Result Label="Pos.Y" Value="122"/>
+      <Result Label="Bkg.Mean" Value="0.85997620374000172"/>
+      <Result Label="Spot.Mean" Value="0.85546875"/>
+      <Result Label="Spot.StdDev" Value="0.0191366386155"/>
+    </Spot>
+    <Spot ID="24">
+      <Result Label="Pos.X" Value="785"/>
+      <Result Label="Pos.Y" Value="140"/>
+      <Result Label="Bkg.Mean" Value="0.85008025682182986"/>
+      <Result Label="Spot.Mean" Value="0.36328125"/>
+      <Result Label="Spot.StdDev" Value="0.0206699321177"/>
+    </Spot>
+    <Spot ID="25">
+      <Result Label="Pos.X" Value="64"/>
+      <Result Label="Pos.Y" Value="186"/>
+      <Result Label="Bkg.Mean" Value="0.85904515652414815"/>
+      <Result Label="Spot.Mean" Value="0.4375"/>
+      <Result Label="Spot.StdDev" Value="0.0386699020961"/>
+    </Spot>
+    <Spot ID="26">
+      <Result Label="Pos.X" Value="130"/>
+      <Result Label="Pos.Y" Value="190"/>
+      <Result Label="Bkg.Mean" Value="0.87086746308484808"/>
+      <Result Label="Spot.Mean" Value="0.86328125"/>
+      <Result Label="Spot.StdDev" Value="0.0234375"/>
+    </Spot>
+    <Spot ID="27">
+      <Result Label="Pos.X" Value="185"/>
+      <Result Label="Pos.Y" Value="190"/>
+      <Result Label="Bkg.Mean" Value="0.8674438277590939"/>
+      <Result Label="Spot.Mean" Value="0.86328125"/>
+      <Result Label="Spot.StdDev" Value="0.01953125"/>
+    </Spot>
+    <Spot ID="28">
+      <Result Label="Pos.X" Value="252"/>
+      <Result Label="Pos.Y" Value="176"/>
+      <Result Label="Bkg.Mean" Value="0.86293216690394148"/>
+      <Result Label="Spot.Mean" Value="0.859375"/>
+      <Result Label="Spot.StdDev" Value="0.0267799007828"/>
+    </Spot>
+    <Spot ID="29">
+      <Result Label="Pos.X" Value="322"/>
+      <Result Label="Pos.Y" Value="186"/>
+      <Result Label="Bkg.Mean" Value="0.85909450416434552"/>
+      <Result Label="Spot.Mean" Value="0.85546875"/>
+      <Result Label="Spot.StdDev" Value="0.0170269489982"/>
+    </Spot>
+    <Spot ID="30">
+      <Result Label="Pos.X" Value="391"/>
+      <Result Label="Pos.Y" Value="196"/>
+      <Result Label="Bkg.Mean" Value="0.8567850289887966"/>
+      <Result Label="Spot.Mean" Value="0.84765625"/>
+      <Result Label="Spot.StdDev" Value="0.0247052942201"/>
+    </Spot>
+    <Spot ID="31">
+      <Result Label="Pos.X" Value="433"/>
+      <Result Label="Pos.Y" Value="196"/>
+      <Result Label="Bkg.Mean" Value="0.85276555300729351"/>
+      <Result Label="Spot.Mean" Value="0.84375"/>
+      <Result Label="Spot.StdDev" Value="0.0217490795423"/>
+    </Spot>
+    <Spot ID="32">
+      <Result Label="Pos.X" Value="525"/>
+      <Result Label="Pos.Y" Value="190"/>
+      <Result Label="Bkg.Mean" Value="0.84975673953980024"/>
+      <Result Label="Spot.Mean" Value="0.84375"/>
+      <Result Label="Spot.StdDev" Value="0.0317345250181"/>
+    </Spot>
+    <Spot ID="33">
+      <Result Label="Pos.X" Value="578"/>
+      <Result Label="Pos.Y" Value="178"/>
+      <Result Label="Bkg.Mean" Value="0.85346593214627131"/>
+      <Result Label="Spot.Mean" Value="0.84765625"/>
+      <Result Label="Spot.StdDev" Value="0.0243945234312"/>
+    </Spot>
+    <Spot ID="34">
+      <Result Label="Pos.X" Value="645"/>
+      <Result Label="Pos.Y" Value="186"/>
+      <Result Label="Bkg.Mean" Value="0.85450168843405483"/>
+      <Result Label="Spot.Mean" Value="0.84765625"/>
+      <Result Label="Spot.StdDev" Value="0.023760791134"/>
+    </Spot>
+    <Spot ID="35">
+      <Result Label="Pos.X" Value="710"/>
+      <Result Label="Pos.Y" Value="179"/>
+      <Result Label="Bkg.Mean" Value="0.85611378188595677"/>
+      <Result Label="Spot.Mean" Value="0.8515625"/>
+      <Result Label="Spot.StdDev" Value="0.0161058813501"/>
+    </Spot>
+    <Spot ID="36">
+      <Result Label="Pos.X" Value="769"/>
+      <Result Label="Pos.Y" Value="179"/>
+      <Result Label="Bkg.Mean" Value="0.8564769155645422"/>
+      <Result Label="Spot.Mean" Value="0.8515625"/>
+      <Result Label="Spot.StdDev" Value="0.0243945234312"/>
+    </Spot>
+    <Spot ID="37">
+      <Result Label="Pos.X" Value="68"/>
+      <Result Label="Pos.Y" Value="251"/>
+      <Result Label="Bkg.Mean" Value="0.85113631659560385"/>
+      <Result Label="Spot.Mean" Value="0.83984375"/>
+      <Result Label="Spot.StdDev" Value="0.028437929255"/>
+    </Spot>
+    <Spot ID="38">
+      <Result Label="Pos.X" Value="125"/>
+      <Result Label="Pos.Y" Value="261"/>
+      <Result Label="Bkg.Mean" Value="0.85411929766645345"/>
+      <Result Label="Spot.Mean" Value="0.84765625"/>
+      <Result Label="Spot.StdDev" Value="0.0183219365618"/>
+    </Spot>
+    <Spot ID="39">
+      <Result Label="Pos.X" Value="180"/>
+      <Result Label="Pos.Y" Value="261"/>
+      <Result Label="Bkg.Mean" Value="0.85853742408924283"/>
+      <Result Label="Spot.Mean" Value="0.84765625"/>
+      <Result Label="Spot.StdDev" Value="0.022439697838"/>
+    </Spot>
+    <Spot ID="40">
+      <Result Label="Pos.X" Value="245"/>
+      <Result Label="Pos.Y" Value="251"/>
+      <Result Label="Bkg.Mean" Value="0.85760207976561376"/>
+      <Result Label="Spot.Mean" Value="0.84765625"/>
+      <Result Label="Spot.StdDev" Value="0.022439697838"/>
+    </Spot>
+    <Spot ID="41">
+      <Result Label="Pos.X" Value="326"/>
+      <Result Label="Pos.Y" Value="252"/>
+      <Result Label="Bkg.Mean" Value="0.854413656027125"/>
+      <Result Label="Spot.Mean" Value="0.84765625"/>
+      <Result Label="Spot.StdDev" Value="0.0217490795423"/>
+    </Spot>
+    <Spot ID="42">
+      <Result Label="Pos.X" Value="390"/>
+      <Result Label="Pos.Y" Value="247"/>
+      <Result Label="Bkg.Mean" Value="0.852089050281635"/>
+      <Result Label="Spot.Mean" Value="0.84765625"/>
+      <Result Label="Spot.StdDev" Value="0.0206699321177"/>
+    </Spot>
+    <Spot ID="43">
+      <Result Label="Pos.X" Value="446"/>
+      <Result Label="Pos.Y" Value="242"/>
+      <Result Label="Bkg.Mean" Value="0.85022936568524288"/>
+      <Result Label="Spot.Mean" Value="0.84375"/>
+      <Result Label="Spot.StdDev" Value="0.0259111311747"/>
+    </Spot>
+    <Spot ID="44">
+      <Result Label="Pos.X" Value="513"/>
+      <Result Label="Pos.Y" Value="242"/>
+      <Result Label="Bkg.Mean" Value="0.84921286648647532"/>
+      <Result Label="Spot.Mean" Value="0.84375"/>
+      <Result Label="Spot.StdDev" Value="0.0213954124025"/>
+    </Spot>
+    <Spot ID="45">
+      <Result Label="Pos.X" Value="573"/>
+      <Result Label="Pos.Y" Value="248"/>
+      <Result Label="Bkg.Mean" Value="0.84991712574191369"/>
+      <Result Label="Spot.Mean" Value="0.84375"/>
+      <Result Label="Spot.StdDev" Value="0.0253153933532"/>
+    </Spot>
+    <Spot ID="46">
+      <Result Label="Pos.X" Value="646"/>
+      <Result Label="Pos.Y" Value="252"/>
+      <Result Label="Bkg.Mean" Value="0.85037792037193682"/>
+      <Result Label="Spot.Mean" Value="0.84375"/>
+      <Result Label="Spot.StdDev" Value="0.023760791134"/>
+    </Spot>
+    <Spot ID="47">
+      <Result Label="Pos.X" Value="706"/>
+      <Result Label="Pos.Y" Value="245"/>
+      <Result Label="Bkg.Mean" Value="0.85202165047007927"/>
+      <Result Label="Spot.Mean" Value="0.84765625"/>
+      <Result Label="Spot.StdDev" Value="0.0217490795423"/>
+    </Spot>
+    <Spot ID="48">
+      <Result Label="Pos.X" Value="767"/>
+      <Result Label="Pos.Y" Value="246"/>
+      <Result Label="Bkg.Mean" Value="0.85391572272542826"/>
+      <Result Label="Spot.Mean" Value="0.84765625"/>
+      <Result Label="Spot.StdDev" Value="0.0165728151841"/>
+    </Spot>
+    <Spot ID="49">
+      <Result Label="Pos.X" Value="57"/>
+      <Result Label="Pos.Y" Value="326"/>
+      <Result Label="Bkg.Mean" Value="0.84813584500794348"/>
+      <Result Label="Spot.Mean" Value="0.80859375"/>
+      <Result Label="Spot.StdDev" Value="0.080907481161"/>
+    </Spot>
+    <Spot ID="50">
+      <Result Label="Pos.X" Value="125"/>
+      <Result Label="Pos.Y" Value="329"/>
+      <Result Label="Bkg.Mean" Value="0.84282501495863171"/>
+      <Result Label="Spot.Mean" Value="0.83984375"/>
+      <Result Label="Spot.StdDev" Value="0.0227771558392"/>
+    </Spot>
+    <Spot ID="51">
+      <Result Label="Pos.X" Value="201"/>
+      <Result Label="Pos.Y" Value="321"/>
+      <Result Label="Bkg.Mean" Value="0.83942751425368467"/>
+      <Result Label="Spot.Mean" Value="0.828125"/>
+      <Result Label="Spot.StdDev" Value="0.023760791134"/>
+    </Spot>
+    <Spot ID="52">
+      <Result Label="Pos.X" Value="266"/>
+      <Result Label="Pos.Y" Value="317"/>
+      <Result Label="Bkg.Mean" Value="0.85298175390815745"/>
+      <Result Label="Spot.Mean" Value="0.84765625"/>
+      <Result Label="Spot.StdDev" Value="0.0217490795423"/>
+    </Spot>
+    <Spot ID="53">
+      <Result Label="Pos.X" Value="320"/>
+      <Result Label="Pos.Y" Value="308"/>
+      <Result Label="Bkg.Mean" Value="0.84898863722393136"/>
+      <Result Label="Spot.Mean" Value="0.84375"/>
+      <Result Label="Spot.StdDev" Value="0.0247052942201"/>
+    </Spot>
+    <Spot ID="54">
+      <Result Label="Pos.X" Value="388"/>
+      <Result Label="Pos.Y" Value="310"/>
+      <Result Label="Bkg.Mean" Value="0.847573150216486"/>
+      <Result Label="Spot.Mean" Value="0.84375"/>
+      <Result Label="Spot.StdDev" Value="0.0174692810742"/>
+    </Spot>
+    <Spot ID="55">
+      <Result Label="Pos.X" Value="451"/>
+      <Result Label="Pos.Y" Value="311"/>
+      <Result Label="Bkg.Mean" Value="0.84668468579996015"/>
+      <Result Label="Spot.Mean" Value="0.83984375"/>
+      <Result Label="Spot.StdDev" Value="0.0234375"/>
+    </Spot>
+    <Spot ID="56">
+      <Result Label="Pos.X" Value="509"/>
+      <Result Label="Pos.Y" Value="308"/>
+      <Result Label="Bkg.Mean" Value="0.84585250445320181"/>
+      <Result Label="Spot.Mean" Value="0.83984375"/>
+      <Result Label="Spot.StdDev" Value="0.019918044975"/>
+    </Spot>
+    <Spot ID="57">
+      <Result Label="Pos.X" Value="583"/>
+      <Result Label="Pos.Y" Value="331"/>
+      <Result Label="Bkg.Mean" Value="0.84639032743928855"/>
+      <Result Label="Spot.Mean" Value="0.83984375"/>
+      <Result Label="Spot.StdDev" Value="0.0206699321177"/>
+    </Spot>
+    <Spot ID="58">
+      <Result Label="Pos.X" Value="636"/>
+      <Result Label="Pos.Y" Value="321"/>
+      <Result Label="Bkg.Mean" Value="0.84683048947393758"/>
+      <Result Label="Spot.Mean" Value="0.83984375"/>
+      <Result Label="Spot.StdDev" Value="0.01953125"/>
+    </Spot>
+    <Spot ID="59">
+      <Result Label="Pos.X" Value="705"/>
+      <Result Label="Pos.Y" Value="311"/>
+      <Result Label="Bkg.Mean" Value="0.84873281476743623"/>
+      <Result Label="Spot.Mean" Value="0.84375"/>
+      <Result Label="Spot.StdDev" Value="0.0187337168879"/>
+    </Spot>
+    <Spot ID="60">
+      <Result Label="Pos.X" Value="778"/>
+      <Result Label="Pos.Y" Value="302"/>
+      <Result Label="Bkg.Mean" Value="0.85117433855338"/>
+      <Result Label="Spot.Mean" Value="0.84375"/>
+      <Result Label="Spot.StdDev" Value="0.0227771558392"/>
+    </Spot>
+    <Spot ID="61">
+      <Result Label="Pos.X" Value="66"/>
+      <Result Label="Pos.Y" Value="379"/>
+      <Result Label="Bkg.Mean" Value="0.84681535890399651"/>
+      <Result Label="Spot.Mean" Value="0.84765625"/>
+      <Result Label="Spot.StdDev" Value="0.0262039216113"/>
+    </Spot>
+    <Spot ID="62">
+      <Result Label="Pos.X" Value="144"/>
+      <Result Label="Pos.Y" Value="389"/>
+      <Result Label="Bkg.Mean" Value="0.84483325424171773"/>
+      <Result Label="Spot.Mean" Value="0.8359375"/>
+      <Result Label="Spot.StdDev" Value="0.0349385621484"/>
+    </Spot>
+    <Spot ID="63">
+      <Result Label="Pos.X" Value="201"/>
+      <Result Label="Pos.Y" Value="372"/>
+      <Result Label="Bkg.Mean" Value="0.8289324007400225"/>
+      <Result Label="Spot.Mean" Value="0.80859375"/>
+      <Result Label="Spot.StdDev" Value="0.019918044975"/>
+    </Spot>
+    <Spot ID="64">
+      <Result Label="Pos.X" Value="251"/>
+      <Result Label="Pos.Y" Value="387"/>
+      <Result Label="Bkg.Mean" Value="0.83969436248719065"/>
+      <Result Label="Spot.Mean" Value="0.828125"/>
+      <Result Label="Spot.StdDev" Value="0.0213954124025"/>
+    </Spot>
+    <Spot ID="65">
+      <Result Label="Pos.X" Value="309"/>
+      <Result Label="Pos.Y" Value="387"/>
+      <Result Label="Bkg.Mean" Value="0.84754850379295876"/>
+      <Result Label="Spot.Mean" Value="0.83984375"/>
+      <Result Label="Spot.StdDev" Value="0.0243945234312"/>
+    </Spot>
+    <Spot ID="66">
+      <Result Label="Pos.X" Value="393"/>
+      <Result Label="Pos.Y" Value="366"/>
+      <Result Label="Bkg.Mean" Value="0.84623076870172831"/>
+      <Result Label="Spot.Mean" Value="0.83984375"/>
+      <Result Label="Spot.StdDev" Value="0.0206699321177"/>
+    </Spot>
+    <Spot ID="67">
+      <Result Label="Pos.X" Value="448"/>
+      <Result Label="Pos.Y" Value="384"/>
+      <Result Label="Bkg.Mean" Value="0.84802718000563959"/>
+      <Result Label="Spot.Mean" Value="0.84375"/>
+      <Result Label="Spot.StdDev" Value="0.015625"/>
+    </Spot>
+    <Spot ID="68">
+      <Result Label="Pos.X" Value="506"/>
+      <Result Label="Pos.Y" Value="376"/>
+      <Result Label="Bkg.Mean" Value="0.84617437294103892"/>
+      <Result Label="Spot.Mean" Value="0.83984375"/>
+      <Result Label="Spot.StdDev" Value="0.023760791134"/>
+    </Spot>
+    <Spot ID="69">
+      <Result Label="Pos.X" Value="579"/>
+      <Result Label="Pos.Y" Value="371"/>
+      <Result Label="Bkg.Mean" Value="0.84360355155741706"/>
+      <Result Label="Spot.Mean" Value="0.8359375"/>
+      <Result Label="Spot.StdDev" Value="0.019918044975"/>
+    </Spot>
+    <Spot ID="70">
+      <Result Label="Pos.X" Value="631"/>
+      <Result Label="Pos.Y" Value="375"/>
+      <Result Label="Bkg.Mean" Value="0.84405471764293227"/>
+      <Result Label="Spot.Mean" Value="0.8359375"/>
+      <Result Label="Spot.StdDev" Value="0.0220970869121"/>
+    </Spot>
+    <Spot ID="71">
+      <Result Label="Pos.X" Value="699"/>
+      <Result Label="Pos.Y" Value="377"/>
+      <Result Label="Bkg.Mean" Value="0.84616611990288915"/>
+      <Result Label="Spot.Mean" Value="0.83984375"/>
+      <Result Label="Spot.StdDev" Value="0.0206699321177"/>
+    </Spot>
+    <Spot ID="72">
+      <Result Label="Pos.X" Value="764"/>
+      <Result Label="Pos.Y" Value="379"/>
+      <Result Label="Bkg.Mean" Value="0.84951822889801309"/>
+      <Result Label="Spot.Mean" Value="0.84375"/>
+      <Result Label="Spot.StdDev" Value="0.0220970869121"/>
+    </Spot>
+    <Spot ID="73">
+      <Result Label="Pos.X" Value="76"/>
+      <Result Label="Pos.Y" Value="459"/>
+      <Result Label="Bkg.Mean" Value="0.843365588957435"/>
+      <Result Label="Spot.Mean" Value="0.82421875"/>
+      <Result Label="Spot.StdDev" Value="0.0336028330744"/>
+    </Spot>
+    <Spot ID="74">
+      <Result Label="Pos.X" Value="124"/>
+      <Result Label="Pos.Y" Value="445"/>
+      <Result Label="Bkg.Mean" Value="0.84878370850269247"/>
+      <Result Label="Spot.Mean" Value="0.83203125"/>
+      <Result Label="Spot.StdDev" Value="0.0467119560277"/>
+    </Spot>
+    <Spot ID="75">
+      <Result Label="Pos.X" Value="201"/>
+      <Result Label="Pos.Y" Value="438"/>
+      <Result Label="Bkg.Mean" Value="0.82870544219090658"/>
+      <Result Label="Spot.Mean" Value="0.81640625"/>
+      <Result Label="Spot.StdDev" Value="0.0250122040525"/>
+    </Spot>
+    <Spot ID="76">
+      <Result Label="Pos.X" Value="247"/>
+      <Result Label="Pos.Y" Value="450"/>
+      <Result Label="Bkg.Mean" Value="0.82835743908226211"/>
+      <Result Label="Spot.Mean" Value="0.8125"/>
+      <Result Label="Spot.StdDev" Value="0.0191366386155"/>
+    </Spot>
+    <Spot ID="77">
+      <Result Label="Pos.X" Value="332"/>
+      <Result Label="Pos.Y" Value="449"/>
+      <Result Label="Bkg.Mean" Value="0.84517437981857069"/>
+      <Result Label="Spot.Mean" Value="0.83984375"/>
+      <Result Label="Spot.StdDev" Value="0.0191366386155"/>
+    </Spot>
+    <Spot ID="78">
+      <Result Label="Pos.X" Value="381"/>
+      <Result Label="Pos.Y" Value="431"/>
+      <Result Label="Bkg.Mean" Value="0.84507534336077472"/>
+      <Result Label="Spot.Mean" Value="0.83984375"/>
+      <Result Label="Spot.StdDev" Value="0.015625"/>
+    </Spot>
+    <Spot ID="79">
+      <Result Label="Pos.X" Value="442"/>
+      <Result Label="Pos.Y" Value="441"/>
+      <Result Label="Bkg.Mean" Value="0.85005880289681646"/>
+      <Result Label="Spot.Mean" Value="0.84765625"/>
+      <Result Label="Spot.StdDev" Value="0.0174692810742"/>
+    </Spot>
+    <Spot ID="80">
+      <Result Label="Pos.X" Value="528"/>
+      <Result Label="Pos.Y" Value="458"/>
+      <Result Label="Bkg.Mean" Value="0.84878783502176736"/>
+      <Result Label="Spot.Mean" Value="0.83984375"/>
+      <Result Label="Spot.StdDev" Value="0.0250122040525"/>
+    </Spot>
+    <Spot ID="81">
+      <Result Label="Pos.X" Value="570"/>
+      <Result Label="Pos.Y" Value="444"/>
+      <Result Label="Bkg.Mean" Value="0.84112626460615814"/>
+      <Result Label="Spot.Mean" Value="0.8359375"/>
+      <Result Label="Spot.StdDev" Value="0.0191366386155"/>
+    </Spot>
+    <Spot ID="82">
+      <Result Label="Pos.X" Value="642"/>
+      <Result Label="Pos.Y" Value="440"/>
+      <Result Label="Bkg.Mean" Value="0.83750079262750732"/>
+      <Result Label="Spot.Mean" Value="0.8359375"/>
+      <Result Label="Spot.StdDev" Value="0.019918044975"/>
+    </Spot>
+    <Spot ID="83">
+      <Result Label="Pos.X" Value="709"/>
+      <Result Label="Pos.Y" Value="437"/>
+      <Result Label="Bkg.Mean" Value="0.84530367741624879"/>
+      <Result Label="Spot.Mean" Value="0.83984375"/>
+      <Result Label="Spot.StdDev" Value="0.0161058813501"/>
+    </Spot>
+    <Spot ID="84">
+      <Result Label="Pos.X" Value="767"/>
+      <Result Label="Pos.Y" Value="438"/>
+      <Result Label="Bkg.Mean" Value="0.84785936822992969"/>
+      <Result Label="Spot.Mean" Value="0.84375"/>
+      <Result Label="Spot.StdDev" Value="0.0146158491671"/>
+    </Spot>
+    <Spot ID="85">
+      <Result Label="Pos.X" Value="69"/>
+      <Result Label="Pos.Y" Value="504"/>
+      <Result Label="Bkg.Mean" Value="0.83523497087365284"/>
+      <Result Label="Spot.Mean" Value="0.81640625"/>
+      <Result Label="Spot.StdDev" Value="0.02734375"/>
+    </Spot>
+    <Spot ID="86">
+      <Result Label="Pos.X" Value="125"/>
+      <Result Label="Pos.Y" Value="496"/>
+      <Result Label="Bkg.Mean" Value="0.84385251820826535"/>
+      <Result Label="Spot.Mean" Value="0.83203125"/>
+      <Result Label="Spot.StdDev" Value="0.0322117627001"/>
+    </Spot>
+    <Spot ID="87">
+      <Result Label="Pos.X" Value="187"/>
+      <Result Label="Pos.Y" Value="512"/>
+      <Result Label="Bkg.Mean" Value="0.83102317040460516"/>
+      <Result Label="Spot.Mean" Value="0.8203125"/>
+      <Result Label="Spot.StdDev" Value="0.0213954124025"/>
+    </Spot>
+    <Spot ID="88">
+      <Result Label="Pos.X" Value="245"/>
+      <Result Label="Pos.Y" Value="503"/>
+      <Result Label="Bkg.Mean" Value="0.82306586612196619"/>
+      <Result Label="Spot.Mean" Value="0.8125"/>
+      <Result Label="Spot.StdDev" Value="0.0240797421991"/>
+    </Spot>
+    <Spot ID="89">
+      <Result Label="Pos.X" Value="324"/>
+      <Result Label="Pos.Y" Value="510"/>
+      <Result Label="Bkg.Mean" Value="0.8428112598950489"/>
+      <Result Label="Spot.Mean" Value="0.83984375"/>
+      <Result Label="Spot.StdDev" Value="0.0240797421991"/>
+    </Spot>
+    <Spot ID="90">
+      <Result Label="Pos.X" Value="379"/>
+      <Result Label="Pos.Y" Value="501"/>
+      <Result Label="Bkg.Mean" Value="0.84169159771941038"/>
+      <Result Label="Spot.Mean" Value="0.8359375"/>
+      <Result Label="Spot.StdDev" Value="0.0151288411961"/>
+    </Spot>
+    <Spot ID="91">
+      <Result Label="Pos.X" Value="439"/>
+      <Result Label="Pos.Y" Value="509"/>
+      <Result Label="Bkg.Mean" Value="0.84380712649844225"/>
+      <Result Label="Spot.Mean" Value="0.8359375"/>
+      <Result Label="Spot.StdDev" Value="0.0250122040525"/>
+    </Spot>
+    <Spot ID="92">
+      <Result Label="Pos.X" Value="509"/>
+      <Result Label="Pos.Y" Value="503"/>
+      <Result Label="Bkg.Mean" Value="0.839043747979725"/>
+      <Result Label="Spot.Mean" Value="0.83984375"/>
+      <Result Label="Spot.StdDev" Value="0.015625"/>
+    </Spot>
+    <Spot ID="93">
+      <Result Label="Pos.X" Value="583"/>
+      <Result Label="Pos.Y" Value="514"/>
+      <Result Label="Bkg.Mean" Value="0.82864413552335481"/>
+      <Result Label="Spot.Mean" Value="0.83203125"/>
+      <Result Label="Spot.StdDev" Value="0.0247052942201"/>
+    </Spot>
+    <Spot ID="94">
+      <Result Label="Pos.X" Value="636"/>
+      <Result Label="Pos.Y" Value="501"/>
+      <Result Label="Bkg.Mean" Value="0.8280389877764357"/>
+      <Result Label="Spot.Mean" Value="0.8359375"/>
+      <Result Label="Spot.StdDev" Value="0.015625"/>
+    </Spot>
+    <Spot ID="95">
+      <Result Label="Pos.X" Value="701"/>
+      <Result Label="Pos.Y" Value="498"/>
+      <Result Label="Bkg.Mean" Value="0.84282088843955683"/>
+      <Result Label="Spot.Mean" Value="0.83984375"/>
+      <Result Label="Spot.StdDev" Value="0.0151288411961"/>
+    </Spot>
+    <Spot ID="96">
+      <Result Label="Pos.X" Value="777"/>
+      <Result Label="Pos.Y" Value="506"/>
+      <Result Label="Bkg.Mean" Value="0.845699823247433"/>
+      <Result Label="Spot.Mean" Value="0.83984375"/>
+      <Result Label="Spot.StdDev" Value="0.019918044975"/>
+    </Spot>
+    <Spot ID="97">
+      <Result Label="Pos.X" Value="53"/>
+      <Result Label="Pos.Y" Value="582"/>
+      <Result Label="Bkg.Mean" Value="0.816411453470277"/>
+      <Result Label="Spot.Mean" Value="0.41015625"/>
+      <Result Label="Spot.StdDev" Value="0.0344990658841"/>
+    </Spot>
+    <Spot ID="98">
+      <Result Label="Pos.X" Value="140"/>
+      <Result Label="Pos.Y" Value="577"/>
+      <Result Label="Bkg.Mean" Value="0.8362407980736154"/>
+      <Result Label="Spot.Mean" Value="0.828125"/>
+      <Result Label="Spot.StdDev" Value="0.0580705810442"/>
+    </Spot>
+    <Spot ID="99">
+      <Result Label="Pos.X" Value="201"/>
+      <Result Label="Pos.Y" Value="573"/>
+      <Result Label="Bkg.Mean" Value="0.83083885255259593"/>
+      <Result Label="Spot.Mean" Value="0.828125"/>
+      <Result Label="Spot.StdDev" Value="0.0170269489982"/>
+    </Spot>
+    <Spot ID="100">
+      <Result Label="Pos.X" Value="256"/>
+      <Result Label="Pos.Y" Value="579"/>
+      <Result Label="Bkg.Mean" Value="0.822620202061884"/>
+      <Result Label="Spot.Mean" Value="0.8125"/>
+      <Result Label="Spot.StdDev" Value="0.0292316983342"/>
+    </Spot>
+    <Spot ID="101">
+      <Result Label="Pos.X" Value="314"/>
+      <Result Label="Pos.Y" Value="557"/>
+      <Result Label="Bkg.Mean" Value="0.83983191312301841"/>
+      <Result Label="Spot.Mean" Value="0.83984375"/>
+      <Result Label="Spot.StdDev" Value="0.0179006863084"/>
+    </Spot>
+    <Spot ID="102">
+      <Result Label="Pos.X" Value="390"/>
+      <Result Label="Pos.Y" Value="561"/>
+      <Result Label="Bkg.Mean" Value="0.83965447280280059"/>
+      <Result Label="Spot.Mean" Value="0.8359375"/>
+      <Result Label="Spot.StdDev" Value="0.0187337168879"/>
+    </Spot>
+    <Spot ID="103">
+      <Result Label="Pos.X" Value="441"/>
+      <Result Label="Pos.Y" Value="561"/>
+      <Result Label="Bkg.Mean" Value="0.83877002221442765"/>
+      <Result Label="Spot.Mean" Value="0.828125"/>
+      <Result Label="Spot.StdDev" Value="0.0340538979964"/>
+    </Spot>
+    <Spot ID="104">
+      <Result Label="Pos.X" Value="522"/>
+      <Result Label="Pos.Y" Value="568"/>
+      <Result Label="Bkg.Mean" Value="0.838287219482672"/>
+      <Result Label="Spot.Mean" Value="0.83203125"/>
+      <Result Label="Spot.StdDev" Value="0.0187337168879"/>
+    </Spot>
+    <Spot ID="105">
+      <Result Label="Pos.X" Value="573"/>
+      <Result Label="Pos.Y" Value="568"/>
+      <Result Label="Bkg.Mean" Value="0.83778653516825874"/>
+      <Result Label="Spot.Mean" Value="0.83203125"/>
+      <Result Label="Spot.StdDev" Value="0.0161058813501"/>
+    </Spot>
+    <Spot ID="106">
+      <Result Label="Pos.X" Value="638"/>
+      <Result Label="Pos.Y" Value="560"/>
+      <Result Label="Bkg.Mean" Value="0.83782917586536543"/>
+      <Result Label="Spot.Mean" Value="0.83203125"/>
+      <Result Label="Spot.StdDev" Value="0.0247052942201"/>
+    </Spot>
+    <Spot ID="107">
+      <Result Label="Pos.X" Value="704"/>
+      <Result Label="Pos.Y" Value="581"/>
+      <Result Label="Bkg.Mean" Value="0.840625580291745"/>
+      <Result Label="Spot.Mean" Value="0.8359375"/>
+      <Result Label="Spot.StdDev" Value="0.0165728151841"/>
+    </Spot>
+    <Spot ID="108">
+      <Result Label="Pos.X" Value="763"/>
+      <Result Label="Pos.Y" Value="590"/>
+      <Result Label="Bkg.Mean" Value="0.83367664898551419"/>
+      <Result Label="Spot.Mean" Value="0.2734375"/>
+      <Result Label="Spot.StdDev" Value="0.0300044755776"/>
+    </Spot>
+    <Spot ID="109">
+      <Result Label="Pos.X" Value="61"/>
+      <Result Label="Pos.Y" Value="649"/>
+      <Result Label="Bkg.Mean" Value="0.81835641049468766"/>
+      <Result Label="Spot.Mean" Value="0.5"/>
+      <Result Label="Spot.StdDev" Value="0.0310048981765"/>
+    </Spot>
+    <Spot ID="110">
+      <Result Label="Pos.X" Value="134"/>
+      <Result Label="Pos.Y" Value="639"/>
+      <Result Label="Bkg.Mean" Value="0.83577279385973968"/>
+      <Result Label="Spot.Mean" Value="0.8359375"/>
+      <Result Label="Spot.StdDev" Value="0.0210358000279"/>
+    </Spot>
+    <Spot ID="111">
+      <Result Label="Pos.X" Value="206"/>
+      <Result Label="Pos.Y" Value="632"/>
+      <Result Label="Bkg.Mean" Value="0.826101608654686"/>
+      <Result Label="Spot.Mean" Value="0.8125"/>
+      <Result Label="Spot.StdDev" Value="0.0281683693396"/>
+    </Spot>
+    <Spot ID="112">
+      <Result Label="Pos.X" Value="242"/>
+      <Result Label="Pos.Y" Value="636"/>
+      <Result Label="Bkg.Mean" Value="0.82821576192735957"/>
+      <Result Label="Spot.Mean" Value="0.8203125"/>
+      <Result Label="Spot.StdDev" Value="0.0267799007828"/>
+    </Spot>
+    <Spot ID="113">
+      <Result Label="Pos.X" Value="335"/>
+      <Result Label="Pos.Y" Value="646"/>
+      <Result Label="Bkg.Mean" Value="0.83853068410808729"/>
+      <Result Label="Spot.Mean" Value="0.83203125"/>
+      <Result Label="Spot.StdDev" Value="0.0227771558392"/>
+    </Spot>
+    <Spot ID="114">
+      <Result Label="Pos.X" Value="385"/>
+      <Result Label="Pos.Y" Value="630"/>
+      <Result Label="Bkg.Mean" Value="0.83634638001114159"/>
+      <Result Label="Spot.Mean" Value="0.83203125"/>
+      <Result Label="Spot.StdDev" Value="0.0170269489982"/>
+    </Spot>
+    <Spot ID="115">
+      <Result Label="Pos.X" Value="442"/>
+      <Result Label="Pos.Y" Value="635"/>
+      <Result Label="Bkg.Mean" Value="0.83601488297879656"/>
+      <Result Label="Spot.Mean" Value="0.828125"/>
+      <Result Label="Spot.StdDev" Value="0.0234375"/>
+    </Spot>
+    <Spot ID="116">
+      <Result Label="Pos.X" Value="507"/>
+      <Result Label="Pos.Y" Value="633"/>
+      <Result Label="Bkg.Mean" Value="0.83659259564927346"/>
+      <Result Label="Spot.Mean" Value="0.83203125"/>
+      <Result Label="Spot.StdDev" Value="0.0170269489982"/>
+    </Spot>
+    <Spot ID="117">
+      <Result Label="Pos.X" Value="568"/>
+      <Result Label="Pos.Y" Value="622"/>
+      <Result Label="Bkg.Mean" Value="0.83652932235679256"/>
+      <Result Label="Spot.Mean" Value="0.83203125"/>
+      <Result Label="Spot.StdDev" Value="0.0170269489982"/>
+    </Spot>
+    <Spot ID="118">
+      <Result Label="Pos.X" Value="633"/>
+      <Result Label="Pos.Y" Value="639"/>
+      <Result Label="Bkg.Mean" Value="0.8371372961671516"/>
+      <Result Label="Spot.Mean" Value="0.828125"/>
+      <Result Label="Spot.StdDev" Value="0.0240797421991"/>
+    </Spot>
+    <Spot ID="119">
+      <Result Label="Pos.X" Value="704"/>
+      <Result Label="Pos.Y" Value="625"/>
+      <Result Label="Bkg.Mean" Value="0.839939202618964"/>
+      <Result Label="Spot.Mean" Value="0.83203125"/>
+      <Result Label="Spot.StdDev" Value="0.019918044975"/>
+    </Spot>
+    <Spot ID="120">
+      <Result Label="Pos.X" Value="761"/>
+      <Result Label="Pos.Y" Value="628"/>
+      <Result Label="Bkg.Mean" Value="0.84247426083727073"/>
+      <Result Label="Spot.Mean" Value="0.8359375"/>
+      <Result Label="Spot.StdDev" Value="0.0243945234312"/>
+    </Spot>
+  </SpotResults>
+</AssayResult>
