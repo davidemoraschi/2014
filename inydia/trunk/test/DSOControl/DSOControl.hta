@@ -1,0 +1,68 @@
+<html>
+<head>
+<title>DSOControl</title>
+<HTA:APPLICATION
+  APPLICATIONNAME="DSOControl"
+  ID="DSOControl"
+  VERSION="1.0"/>
+</head>
+
+<script language="VBScript">
+
+Sub Window_OnLoad
+  'This method will be called when the application loads
+  'Add your code here
+Dim adoConn 'as ADODB.Connection
+Dim adoRS 'as 'ADODB.Recordset
+
+Set adoConn = CreateObject("ADODB.Connection")
+Set adoRS = CreateObject("ADODB.Recordset")
+
+'Stop
+
+adoConn.Open "Provider=MSDAOSP; Data Source=MSXML2.DSOControl.2.6;"
+adoRS.Open "file:///D:\My Dropbox\SOURCES\inydia\test\DSOControl\A1.xml", adoConn
+
+'Stop
+
+adoRS.MoveFirst
+debug.write adoRS("ImageFileName")
+'Debug.WriteLine adoRS.Status
+
+Dim iLevel 'As Integer
+iLevel = 0
+Call WalkHier (iLevel, adoRS)
+                          
+
+End Sub
+
+Sub WalkHier(ByVal iLevel , ByVal adoRS )
+Const adChapter = 136
+    iLevel = iLevel + 1
+    PriorLevel = iLevel
+    While Not adoRS.EOF
+        For ndx = 0 To adoRS.Fields.Count - 1
+            If adoRS.Fields(ndx).Name <> "$Text" Then
+                If adoRS.Fields(ndx).Type = adChapter Then
+                    Set adoChildRS = adoRS.Fields(ndx).Value
+                    WalkHier iLevel, adoChildRS
+                Else
+                    'Debug.WriteLine iLevel & ": adoRS.Fields(" & ndx & ") = " & adoRS.Fields(ndx).Name & " = " & adoRS.Fields(ndx).Value
+                    document.write iLevel & ": adoRS.Fields(" & ndx & ") = " & adoRS.Fields(ndx).Name & " = " & adoRS.Fields(ndx).Value
+                End If
+            End If
+        Next 'ndx
+        adoRS.MoveNext
+    Wend
+    iLevel = PriorLevel
+End Sub
+
+</script>
+
+<body bgcolor="white">
+
+<!--Add your controls here-->
+
+<!--{{InsertControlsHere}}-Do not remove this line-->
+</body>
+</html>
